@@ -1,0 +1,35 @@
+{
+  "last_update": "2025-03-09T19:10:14.969974",
+  "is_running": true,
+  "jobs": {
+    "twitter": {
+      "last_run": "2025-03-09T14:34:41.780853",
+      "next_run": "2025-03-09T18:00:00+02:00",
+      "success_count": 0,
+      "failure_count": 1,
+      "last_status": "failure",
+      "last_error": "python3: can't open file '/home/julius/Desktop/Automation Scripts/twitter_content_generator.py': [Errno 2] No such file or directory\n"
+    },
+    "facebook": {
+      "last_run": "2025-03-09T14:38:56.850878",
+      "next_run": "2025-03-09T16:20:00+02:00",
+      "success_count": 0,
+      "failure_count": 2,
+      "last_status": "failure",
+      "last_error": "python3: can't open file '/home/julius/Desktop/Automation Scripts/facebook_content_generator.py': [Errno 2] No such file or directory\n"
+    },
+    "linkedin": {
+      "last_run": "2025-03-09T14:36:01.237442",
+      "next_run": "2025-03-09T16:40:00+02:00",
+      "success_count": 0,
+      "failure_count": 1,
+      "last_status": "failure",
+      "last_error": "python3: can't open file '/home/julius/Desktop/Automation Scripts/linkedin_content_generator.py': [Errno 2] No such file or directory\n"
+    }
+  },
+  "system_stats": {
+    "cpu_usage": 62.9,
+    "memory_usage": 98.1,
+    "uptime": 283168.8995780945
+  }
+}
