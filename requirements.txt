@@ -1,0 +1,46 @@
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+google-generativeai==0.3.1
+
+# Scheduling and process management
+apscheduler==3.10.1
+pytz==2023.3
+psutil==5.9.5
+
+# Image processing
+Pillow==10.0.0
+
+# Email notifications
+# (Included in standard library, but listed for documentation)
+# smtplib
+# email
+
+# Date and time handling
+# (Included in standard library, but listed for documentation)
+# datetime
+
+# Logging
+# (Included in standard library, but listed for documentation)
+# logging
+
+# OS and system utilities
+# (Included in standard library, but listed for documentation)
+# os
+# sys
+# time
+# random
+# shutil
+# json
+# re
+# hashlib
+# signal
+# fcntl
+# resource
+# subprocess
+# socket
+
+# Parsing and data handling
+# (Included in standard library, but listed for documentation)
+# argparse

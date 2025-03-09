@@ -4,3 +4,4 @@
 __pycache__/
 *_key.json
 *.env
+*.log
